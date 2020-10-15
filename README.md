@@ -1,4 +1,4 @@
-# Donati_Kuntz_et_al
+# Donati_Kuntz_et_al -  CRISPRi-knockdowns of enzymes identify mechanisms that enable metabolic robustness in E. coli 
 
 These codes were used to create the model figures in the paper.
 
