@@ -1,4 +1,4 @@
-# Donati_Kuntz_et_al -  CRISPRi-knockdowns of enzymes identify mechanisms that enable metabolic robustness in E. coli 
+# Donati_Kuntz_et_al: Multi-omics analysis of CRISPRi-knockdowns identifies mechanisms that buffer decreases of enzymes in E. coli metabolism
 
 These codes were used to create the model figures in the paper.
 
