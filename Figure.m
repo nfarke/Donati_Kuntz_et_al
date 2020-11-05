@@ -165,5 +165,5 @@ dcdt(1,1) =    r1 - r3;
 dcdt(2,1) =    r2 - r3 - r4;
 dcdt(3,1) =    r3 - r5;
 dcdt(4,1) =    r4 - r6;
-dcdt(5,1) =    -mue*e2; %dilution of e2 by growth simulates CRISPRi
+dcdt(5,1) =    -mue*e2;
 end
